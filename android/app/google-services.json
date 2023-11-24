@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810676257968",
+    "project_id": "auht-fire-base",
+    "storage_bucket": "auht-fire-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810676257968:android:0c929fca95144df5d8a775",
+        "android_client_info": {
+          "package_name": "com.example.autenticacion_firebase_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Myv6RH6JCwK6_30mfesUQN6MXMLWAEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
